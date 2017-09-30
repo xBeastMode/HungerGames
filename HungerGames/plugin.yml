@@ -3,7 +3,7 @@ version: Build#16
 main: hungergames\Loader
 author: xBeastMode
 description: "The ultimate starvation game for minecraft pocket!"
-api: [3.0.0-ALPHA7]
+api: [3.0.0-ALPHA8]
 load: STARTUP
 
 permissions:
